@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttributeReflectionIssue", "CustomAttributeReflectionIssue\CustomAttributeReflectionIssue.csproj", "{EF62EF45-2E0F-4CD9-BF96-99D09171CFA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttributes", "CustomAttributes\CustomAttributes.csproj", "{AA9AB5EC-B85E-4919-8E5E-CC276D216417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF62EF45-2E0F-4CD9-BF96-99D09171CFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF62EF45-2E0F-4CD9-BF96-99D09171CFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF62EF45-2E0F-4CD9-BF96-99D09171CFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF62EF45-2E0F-4CD9-BF96-99D09171CFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9AB5EC-B85E-4919-8E5E-CC276D216417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9AB5EC-B85E-4919-8E5E-CC276D216417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9AB5EC-B85E-4919-8E5E-CC276D216417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9AB5EC-B85E-4919-8E5E-CC276D216417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069E9560-BFF3-4A68-BD2C-27E3F6648757}
+	EndGlobalSection
+EndGlobal
